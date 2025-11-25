@@ -34,7 +34,6 @@ hr {
   gap: 25px;
 }
 
-/* Avatar tròn */
 .avatar {
   width: 150px;
   height: 150px;
@@ -89,7 +88,6 @@ hr {
   margin-right: 5px;
 }
 
-/* 4 nút liên kết hàng ngang */
 .contact-links {
   display: flex;
   gap: 15px;
@@ -164,7 +162,6 @@ hr {
   width: fit-content;
 }
 
-/* Card dự án */
 .project-card {
   display: flex;
   background: white;
